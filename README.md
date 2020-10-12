@@ -1,4 +1,7 @@
 Judul aplikasi : List Wisata Puwakarta
+
+Nama Kelompok : Travelog (kelompok 15)
+
 Anggota Kelompok :
 - Ryan Nugraha (32180118)
 - Ridwan Adisaputra (32180061)
